@@ -1,4 +1,4 @@
-class Ball {
+class Pelota {
     constructor(x, y,r) {
 
         var options ={
